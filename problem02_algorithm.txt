@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter base of triangular banner. Store it as TBB.
+Step 3: Ask the user to enter height of triangular banner. Store it as TBH.
+Step 4: Compute Area = TBB * TBH.
+Step 5: Display Area.
+Step 6: End.

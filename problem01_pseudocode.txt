@@ -1,0 +1,8 @@
+START
+INPUT WB
+INPUT FE
+INPUT CE
+INPUT ME
+PROCESS Remaining Balance = (FE + CE + ME) - WB
+DISPLAY Remaining Balance
+END

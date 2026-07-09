@@ -1,0 +1,8 @@
+Step 1: Start.
+Step 2: Ask the user to enter amount of weekly budget. Store it as WB.
+Step 3: Ask the user to enter amount spent on food this week. Store it as FE.
+Step 4: Ask the user to enter amount spent on commute this week. Store it as CE.
+Step 5: Ask the user to enter amount spent on miscellaneous this week. Store it as ME.
+Step 6: Compute Remaining Balance = (FE + CE + ME) - WB.
+Step 7: Display Remaining Balance.
+Step 8: End.

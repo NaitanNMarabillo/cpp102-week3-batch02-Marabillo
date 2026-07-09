@@ -1,0 +1,10 @@
+Step 1: Start.
+Step 2: Ask the user to enter price of breads bought. Store it as BP.
+Step 3: Ask the user to enter amount of breads bought. Store it as BQ.
+Step 4: Ask the user to enter price of eggs bought. Store it as EP.
+Step 5: Ask the user to enter amount of eggs bought. Store it as EQ.
+Step 6: Ask the user to enter price of milk bought. Store it as MP.
+Step 7: Ask the user to enter amount of milk bought. Store it as MQ.
+Step 8: Compute Total Bill = (BP * BQ) + (EP * EQ) + (MP * MQ).
+Step 9: Display Total Bill.
+Step 10: END.

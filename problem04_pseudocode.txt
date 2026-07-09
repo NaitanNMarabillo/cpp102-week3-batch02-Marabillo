@@ -1,0 +1,7 @@
+START
+INPUT S1
+INPUT S2
+INPUT S3
+PROCESS average = (S1+ S2 + S3)/3
+DISPLAY average
+END

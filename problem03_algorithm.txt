@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter price of notebook. Store it as NBprice.
+Step 3: Ask the user to enter quantity of notebook to buy. Store it as NBquantity.
+Step 4: Compute Item Total = NBprice * NBquantity.
+Step 5: Display Item Total.
+Step 6: End.

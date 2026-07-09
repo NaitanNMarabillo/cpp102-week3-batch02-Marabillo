@@ -1,0 +1,8 @@
+Step 1: Start.
+Step 2: Ask the user to enter the number of days allowance is received in a week. Store it as NoDA.
+Step 3: Ask the user to enter the amount of allowance received per day. Store it as QoA.
+Step 4: Ask the user to enter the number of days bonus allowance is received in a week. Store it as NoDB.
+Step 5: Ask the user to enter the amount of bonus allowance received per day. Store it as QoB.
+Step 6: Compute total weekly allowance = (NoDA * QoA) + (NoDB * QoB).
+Step 7: Display of total weekly allowance.
+Step 8: End.

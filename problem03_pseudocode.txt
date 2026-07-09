@@ -1,0 +1,6 @@
+START
+INPUT NBprice
+INPUT NBquantity
+PROCESS Item Total = NBprice + NBquantity
+DISPLAY Item Total
+END

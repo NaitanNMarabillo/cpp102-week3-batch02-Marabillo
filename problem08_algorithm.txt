@@ -1,0 +1,5 @@
+Step 1: Start.
+Step 2: Ask the user to enter amount of total purchase. Store it as TP.
+Step 3: If the amount of total purchase is ≥ 1000. Display Eligible for Discount.
+Step 4: If the amount of total purchase is < 1000. Display Not Eligible for Discount.
+Step 5: End.

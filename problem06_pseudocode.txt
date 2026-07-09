@@ -1,0 +1,8 @@
+START
+INPUT NoDA
+INPUT QoA
+INPUT NoDB
+INPUT QoB
+PROCESS total weekly allowance = (NoDA * QoA) + (NoDB * QoB)
+DISPLAY total weekly allowance
+END

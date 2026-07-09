@@ -1,0 +1,7 @@
+START
+INPUT TP
+IF TP ≥ 1000
+DISPLAY Eligible for Discount
+ELSE
+DISPLAY Not Eligible for Discount
+END
